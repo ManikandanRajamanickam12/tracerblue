@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="123.412" height="124.274" viewBox="0 0 123.412 124.274">
+  <g id="F-searching" transform="translate(-131.588 -86.068)">
+    <g id="Group_2094" data-name="Group 2094" transform="translate(154.264 86.068)">
+      <path id="Path_2745" data-name="Path 2745" d="M683.75,219.312h-.679V200.7a10.77,10.77,0,0,0-10.77-10.77H632.877a10.77,10.77,0,0,0-10.77,10.77V302.791a10.77,10.77,0,0,0,10.77,10.77H672.3a10.77,10.77,0,0,0,10.77-10.77V232.558h.679Z" transform="translate(-622.107 -189.934)" fill="#3f3d56"/>
+      <path id="Path_2746" data-name="Path 2746" d="M690.727,210.159V312.1a8.041,8.041,0,0,1-8.044,8.041H643.069a8.041,8.041,0,0,1-8.042-8.042V210.159a8.041,8.041,0,0,1,8.042-8.041h4.807a3.823,3.823,0,0,0,3.539,5.263H674a3.819,3.819,0,0,0,3.539-5.263h5.144A8.041,8.041,0,0,1,690.727,210.159Z" transform="translate(-632.055 -199.314)" fill="#fff"/>
+      <path id="Path_2818" data-name="Path 2818" d="M777.158,210.159v22.173a23.818,23.818,0,0,1-29.878-23.021q0-.975.078-1.93h13.072a3.819,3.819,0,0,0,3.539-5.263h5.144A8.041,8.041,0,0,1,777.158,210.159Z" transform="translate(-718.486 -199.314)" fill="#f0f0f0"/>
+      <circle id="Ellipse_305" data-name="Ellipse 305" cx="15.924" cy="15.924" r="15.924" transform="translate(23.791 75.351)" fill="#f0f0f0"/>
+      <ellipse id="Ellipse_306" data-name="Ellipse 306" cx="18.849" cy="19.174" rx="18.849" ry="19.174" transform="translate(6.892 48.703)" fill="#fabbbb"/>
+      <circle id="Ellipse_343" data-name="Ellipse 343" cx="1.3" cy="1.3" r="1.3" transform="translate(29.641 113.699)" fill="#2f2e41"/>
+    </g>
+    <path id="Path_2812" data-name="Path 2812" d="M477.18,185.358a20.95,20.95,0,1,0,1.188,30.94l25.7,21.684a1.931,1.931,0,1,0,2.493-2.949l0,0-25.7-21.684A20.951,20.951,0,0,0,477.18,185.358Zm-1.657,25.9a15.7,15.7,0,1,1-1.874-22.118h0A15.7,15.7,0,0,1,475.523,211.259Z" transform="translate(-252.242 -43.628)" fill="#3f3d56"/>
+    <path id="Path_3096" data-name="Path 3096" d="M246.157,726.434H356.731c.086,0,.157-.112.157-.25s-.07-.25-.157-.25H246.157c-.086,0-.157.112-.157.25S246.07,726.434,246.157,726.434Z" transform="translate(-114.412 -516.092)" fill="#3f3d56"/>
+    <path id="Icon_feather-bluetooth" data-name="Icon feather-bluetooth" d="M9.75,5.945l8.891,8.891L14.2,19.281V1.5l4.445,4.445L9.75,14.836" transform="translate(165.213 143.551)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

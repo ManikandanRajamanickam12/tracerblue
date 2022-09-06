@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "816470817299",
+    "firebase_url": "https://tracer-blue-default-rtdb.firebaseio.com",
+    "project_id": "tracer-blue",
+    "storage_bucket": "tracer-blue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816470817299:android:ade11001fc0f474ad51de6",
+        "android_client_info": {
+          "package_name": "com.example.tracerblue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816470817299-31rh0b2drcmk1aok9mgmp749q9cvja08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Ows_bU4YoxS9yn33WiSPT6CWHSN29XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816470817299-31rh0b2drcmk1aok9mgmp749q9cvja08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
